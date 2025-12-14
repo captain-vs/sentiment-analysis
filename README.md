@@ -41,7 +41,7 @@ Want to test it out? Follow these steps:
 
 3.  **Run the bot**
     ```bash
-    python main.py
+    python Main.py
     ```
 
 4.  **Start typing!**
